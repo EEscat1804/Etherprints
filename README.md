@@ -10,14 +10,14 @@
 
 -On the left, there is the color changer, uploader, and AI generator.
 
-Color Changer: Allows one to change the color of the shirt
+Color Changer: Allows one to change the color of the shirt.
 
-Uploader: Allows the user to upload their own custom designs via pictures
+Uploader: Allows the user to upload their own custom designs via pictures.
 
-AI Filter: Allows the user to type a prompt in and it will generate a t-shirt design for them
+AI Filter: Allows the user to type a prompt in and it will generate a t-shirt design for them.
 
--The redshirt button on the bottom allows the user to customize the logo
+-The green shirt button on the bottom allows the user to customize the logo.
 
--The blue shirt button customizes the entire shirt
+-The yellow shirt button customizes the entire shirt.
 
 -There is a download button as well so that you can save your designs!
