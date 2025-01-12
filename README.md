@@ -1,8 +1,8 @@
 # Create any shirt that you want with this 3D AI-Powered website!
 
-<img width="1508" alt="Screenshot 2023-08-16 012052" src="https://github.com/EEscat1804/EtherPrint-CustomShirts/assets/142355412/3f0ac7f0-d821-4aae-b4e2-027acfad8509">
-<img width="1895" alt="Screenshot 2023-08-16 012123" src="https://github.com/EEscat1804/EtherPrint-CustomShirts/assets/142355412/c7f71192-7f43-4f06-8bbf-7cbfed7c2bb9">
-<img width="1921" alt="Screenshot 2023-08-16 012436" src="https://github.com/EEscat1804/EtherPrint-CustomShirts/assets/142355412/5ba0e224-7195-4bae-8304-804423104bbc">
+<img width="1921" alt="260947798-5ba0e224-7195-4bae-8304-804423104bbc" src="https://github.com/user-attachments/assets/7219caf6-b96e-4747-8660-c941482acc0b" />
+<img width="1274" alt="etherprint" src="https://github.com/user-attachments/assets/5e303633-27b0-48a2-89bd-00deb9f752d1" />
+
 
 # How it works!
 
