@@ -18,7 +18,7 @@
 - Framer Motion
 - Valtio
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
 1) **3D Swag Generation**: Generate unique 3D shirts/swag items dynamically
 
@@ -42,7 +42,7 @@
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -92,7 +92,7 @@ Replace the placeholder values with your actual OpenAI credentials. You can obta
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+## <a name="snippets"> Snippets</a>
 
 <details>
 <summary><code>Customizer.jsx</code></summary>
