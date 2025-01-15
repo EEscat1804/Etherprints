@@ -57,8 +57,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_threejs_ai.git
-cd project_threejs_ai
+git clone https://github.com/EEscat1804/Etherprints.git
+cd Etherprints
 ```
 
 **Installation**
